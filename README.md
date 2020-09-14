@@ -46,10 +46,10 @@ With the following software and hardware list you can run all code files present
 | 1        | SQL Server 2019                    | Windows, Mac OS X, and Linux (Any) |
 
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packtcdn.com/ downloads/9781789954326_ColorImages.pdf).
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packtcdn.com/downloads/9781789954326_ColorImages.pdf).
 
 ### Related products <Other books you may enjoy>
-* Introducing Microsoft SQL Server 2019 [[Packt]](https://www.packtpub.com/product/introducing-microsoft-sql-server-2019/9781838826215) [[Amazon](https://www.amazon.com/dp/1838826211)
+* Introducing Microsoft SQL Server 2019 [[Packt]](https://www.packtpub.com/product/introducing-microsoft-sql-server-2019/9781838826215) [[Amazon]](https://www.amazon.com/dp/1838826211)
 * Mastering Azure Machine Learning [[Packt]](https://www.packtpub.com/product/mastering-azure-machine-learning/9781789807554) [[Amazon]](https://www.amazon.com/dp/1789807557)
 
 ## Get to Know the Authors
