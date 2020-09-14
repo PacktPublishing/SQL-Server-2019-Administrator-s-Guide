@@ -49,9 +49,8 @@ With the following software and hardware list you can run all code files present
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it]( https://static.packtcdn.com/ downloads/9781789954326_ColorImages.pdf).
 
 ### Related products <Other books you may enjoy>
-* Linux: Powerful Server Administration [[Packt]](https://www.packtpub.com/networking-and-servers/linux-powerful-server-administration?utm_source=github&utm_medium=repository&utm_campaign=9781788293778) [[Amazon]](https://www.amazon.com/dp/1788293770)
-
-* Linux Device Drivers Development [[Packt]](https://www.packtpub.com/networking-and-servers/linux-device-drivers-development?utm_source=github&utm_medium=repository&utm_campaign=9781785280009) [[Amazon]](https://www.amazon.com/dp/1788293770)
+* Introducing Microsoft SQL Server 2019 [[Packt]](https://www.packtpub.com/product/introducing-microsoft-sql-server-2019/9781838826215) [[Amazon](https://www.amazon.com/dp/1838826211)
+* Mastering Azure Machine Learning [[Packt]](https://www.packtpub.com/product/introducing-microsoft-sql-server-2019/9781838826215) [[Amazon]](https://www.amazon.com/dp/1789807557)
 
 ## Get to Know the Authors
 **Marek Chmel**
@@ -62,8 +61,8 @@ has been a freelance developer and consultant since 1997. He has been a Data Pla
 
 
 ## Other books by the authors
-* [Mastering Linux Network Administration](https://www.packtpub.com/networking-and-servers/mastering-linux-network-administration?utm_source=github&utm_medium=repository&utm_campaign=9781784399597)
-* [Linux Mint Essentials](https://www.packtpub.com/networking-and-servers/linux-mint-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781782168157)
+* [Hands-On Data Science with SQL Server 2017](https://www.packtpub.com/product/hands-on-data-science-with-sql-server-2017/9781788996341)
+* [SQL Server 2017 Administrator's Guide](https://www.packtpub.com/product/sql-server-2017-administrator-s-guide/9781786462541)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
