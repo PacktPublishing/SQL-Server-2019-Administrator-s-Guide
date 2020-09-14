@@ -9,7 +9,7 @@ This is the code repository for [SQL Server 2019 Administrator's Guide](https://
 ## What is this book about?
 SQL Server is one of the most popular relational database management systems developed by Microsoft. This second edition of the SQL Server Administrator's Guide will not only teach you how to administer an enterprise database, but also help you become proficient at managing and keeping the database available, secure, and stable.
 
-This book covers the following exciting features: <First 5 What you'll learn points>
+This book covers the following exciting features: 
 
 * Discover SQL Server 2019’s new features and how to implement them
 * Fix performance issues by optimizing queries and making use of indexes
@@ -46,11 +46,11 @@ With the following software and hardware list you can run all code files present
 | 1        | SQL Server 2019                    | Windows, Mac OS X, and Linux (Any) |
 
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it]( https://static.packtcdn.com/ downloads/9781789954326_ColorImages.pdf).
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://static.packtcdn.com/ downloads/9781789954326_ColorImages.pdf).
 
 ### Related products <Other books you may enjoy>
 * Introducing Microsoft SQL Server 2019 [[Packt]](https://www.packtpub.com/product/introducing-microsoft-sql-server-2019/9781838826215) [[Amazon](https://www.amazon.com/dp/1838826211)
-* Mastering Azure Machine Learning [[Packt]](https://www.packtpub.com/product/introducing-microsoft-sql-server-2019/9781838826215) [[Amazon]](https://www.amazon.com/dp/1789807557)
+* Mastering Azure Machine Learning [[Packt]](https://www.packtpub.com/product/mastering-azure-machine-learning/9781789807554) [[Amazon]](https://www.amazon.com/dp/1789807557)
 
 ## Get to Know the Authors
 **Marek Chmel**
