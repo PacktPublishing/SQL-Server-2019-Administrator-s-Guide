@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/sql-server-2019-administrator-s-guide-second-edition/9781789954326)
------
-*If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/1789954320).     Potential readers can then use your unbiased opinion to help them make purchase decisions. Thank you. The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # SQL Server 2019 Administrator's Guide
 
 <a href="https://www.packtpub.com/product/sql-server-2019-administrator-s-guide-second-edition/9781789954326"><img src="https://static.packt-cdn.com/products/9781789954326/cover/smaller" alt="SQL Server 2019 Administrator's Guide" height="256px" align="right"></a>
