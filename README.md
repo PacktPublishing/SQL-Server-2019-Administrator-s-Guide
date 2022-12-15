@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781789954326)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # SQL Server 2019 Administrator's Guide
 
 <a href="https://www.packtpub.com/product/sql-server-2019-administrator-s-guide-second-edition/9781789954326"><img src="https://static.packt-cdn.com/products/9781789954326/cover/smaller" alt="SQL Server 2019 Administrator's Guide" height="256px" align="right"></a>
