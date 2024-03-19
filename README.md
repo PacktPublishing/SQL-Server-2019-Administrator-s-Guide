@@ -68,7 +68,7 @@ has been a freelance developer and consultant since 1997. He has been a Data Pla
 * [SQL Server 2017 Administrator's Guide](https://www.packtpub.com/product/sql-server-2017-administrator-s-guide/9781786462541)
 
 ### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
+[Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions. There are also some scripts contained in the book which is listed on this repo: https://github.com/DropmanCz/SQL-Notebooks
 
 ### Download a free PDF
 
